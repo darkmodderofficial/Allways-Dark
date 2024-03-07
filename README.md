@@ -1,4 +1,4 @@
-# V-DdoS<h1 style="color:red" align="center">What is V-DdoS tool?</h1>
+# AllwaysDark<h1 style="color:red" align="center">What is allways-dark tool?</h1>
 <div>
 <p style="color:black"><b><i><u>Distributed Denial Of Service</u></i> (DDoS) attacks are a subclass of denial of service (DoS) attacks. A DDoS attack involves multiple connected online devices, collectively known as a botnet, which are used to overwhelm a target website with fake traffic.</b></p>
 <img src="https://cdn.discordapp.com/attachments/870740780938047520/870740893093724240/20210731_005139.jpg">
@@ -17,14 +17,14 @@
 - $ `pkg install python2`
 - $ `pkg install git`
 - $ `pkg install figlet`
-- $ `git clone https://www.github.com/AllwaysDark/allways-dark.git`
-- $ `cd allways-dark`
+- $ `git clone https://www.github.com/AllwaysDark.git`
+- $ `cd Allways-Dark`
 - $ `chmod +x allways-dark.py`
 - $ `python2 allways-dark.py`
 
 <p><b>To Run</b></p>
 
-- $ `cd allways-dark`
+- $ `cd Allways-Dark`
 - $ `python2 allways-dark.py`
 
 <p><b><i> Your Tool Install & Setup Done!!..Now Go To Google & Search</i></b>`Website IP Finder`<b><i>Now  Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..</b></i></p>
@@ -43,8 +43,7 @@
 
 ``(Tap To Redirect)``
 
-[![Github](https://img.shields.io/badge/Facebook-FBGroup-blue?style=for-the-badge&logo=facebook)](https://facebook.com/groups/)
-[![Github](https://img.shields.io/badge/Facebook-FBPAGE-blue?style=for-the-badge&logo=facebook)](https://facebook.com/)
+
 [![Github](https://img.shields.io/badge/TELEGRAM-TgGroup-orange?style=for-the-badge&logo=telegram)](https://t.me/Dazai_FreeSrc)
 
 <h3 style="color:purple"> THANKS FOR USING OUR TOOL </h3>
