@@ -27,7 +27,7 @@
 - $ `cd Allways-Dark`
 - $ `python2 allways-dark.py`
 
-<p><b><i> Your Tool Install & Setup Done!!..Now Go To Google & Search</i></b>`Website IP Finder`<b><i>Now  Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..</b></i></p>
+<p><b><i> Your Tool Install & Setup Done!!..Now Go To Google & Search</i></b>`Website IP Finder`<b><i>Now  Open The 1st Wesite & Place Your Target Website Url e.g. www.example.com..</b></i></p>
 
 <p><b><i>After Getting The Website IP , Copy The IP & Come To The Termux.. Now Paste The Target Website IP On</b></i> `Ip Target:` <b><i>& Give The Port Number</b></i> `8080` </p>
 
