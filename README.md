@@ -17,15 +17,15 @@
 - $ `pkg install python2`
 - $ `pkg install git`
 - $ `pkg install figlet`
-- $ `git clone https://www.github.com/AllwaysDark/V-DdoS.git`
-- $ `cd V-DdoS`
-- $ `chmod +x V-DdoS.py`
-- $ `python2 V-DdoS.py`
+- $ `git clone https://www.github.com/AllwaysDark/allways-dark.git`
+- $ `cd allways-dark`
+- $ `chmod +x allways-dark.py`
+- $ `python2 allways-dark.py`
 
 <p><b>To Run</b></p>
 
-- $ `cd V-DdoS`
-- $ `python2 V-DdoS.py`
+- $ `cd allways-dark`
+- $ `python2 allways-dark.py`
 
 <p><b><i> Your Tool Install & Setup Done!!..Now Go To Google & Search</i></b>`Website IP Finder`<b><i>Now  Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..</b></i></p>
 
@@ -37,7 +37,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/870740780938047520/871007159150837820/20210610_164346.jpg">
 
-<p><b>T34m V18rs ( Team Virus ) is a Bangladeshi FB Spamming & Termux Hacker Group..We make working tools for termux..You can reach us by visiting this links.. Thank You So Much For Using Our Tool(s)</b></p>
+<p><b>Allways Dark ( Team Virus ) is a Bangladeshi FB Spamming & Termux Hacker Group..We make working tools for termux..You can reach us by visiting this links.. Thank You So Much For Using Our Tool(s)</b></p>
 
 <p style="color:purple"><b>Connect With Us:</b></p>
 
